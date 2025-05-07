@@ -108,13 +108,11 @@
 **давай забудем всё, давай поедем в Амстердам**
 
 ```html
-<p>Hello!</p>
+<p>hey!</p>
 <br>
-<p>We’ve upgraded your 4th deposit offer!</p>
+<p>we’ve upgraded your texts!</p>
 <br>
-<p>🔥 Get <b style="color:#ffff00">a 150% bonus up to 2,000 USD / 100,000 DOP </b>
-<br>That’s even more power to play with!
+<p>🔥 get <b style="color:#ffff00">updated versions </b> for free.
+<br>that’s even more power to play with!
 </p> 
-<br>
-<p>Use bonus code <b>ORO4UP</b> and deposit at least 20 USD / 1,000 DOP.</p>
-<br><p>Let’s go bigger!</p>```
+<br><p>let’s go bigger!</p>```
